@@ -1,16 +1,21 @@
-### Hi there 👋
+<h2> Hi, I'm Pradeep <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
 
-<!--
-**pradeepreddydodla/pradeepreddydodla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-minalvaity-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pradeepreddydodla/)](https://www.linkedin.com/in/pradeepreddydodla/) 
+[![Gmail Badge](https://img.shields.io/badge/-reddypradeepdodla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reddypradeepdodla@gmail.com)](mailto:reddypradeepdodla@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello Techies! I am Pradeep <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">. I am currently working as a Senior Software Engineer at Dow Jones. I have a Master's in Software Engineering from Vellore Institute of Technology and an MBA in Business Analytics from University of North Texas. I am more of a Business Enthusiast with a lot of interest in ever growing technology. Please feel free to reach out to me with your business ideas and complex business problems. I am happy to help you build technical solutions to solve those problems.
+
+## ⚡ Technologies
+Talk to me about
+- Front-end development using **HTML, CSS, Javascript, Bootstrap, and ReactJS**
+- Backend development using **Java, Python**
+- Database Management using **SQL and NoSQL**
+- Building scalable cloud solutions using **AWS and ORACLE Cloud**
+- Solving Data structure and algorithm questions in **Java and Python**
+
+## About me 🤔
+- I Love ❤️ programming
+- 🎯 Portfolio site: [Portfolio](https://pradeepreddydodla.github.io)
+- 📫 How to reach me: reddypradeepdodla@gmail.com
