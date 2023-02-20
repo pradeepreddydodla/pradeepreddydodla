@@ -11,10 +11,10 @@ I am currently working as a Senior Software Engineer at Dow Jones. I have a Mast
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, CSS, Javascript, Bootstrap, and ReactJS**
-- Backend development using **Java, Python**
+- Backend development using **Java and Python**
 - Database Management using **SQL and NoSQL**
 - Building scalable cloud solutions using **AWS and ORACLE Cloud**
-- Solving Data structure and algorithm questions in **Java and Python**
+- Deployment tools and technologies
 
 ## About me 🤔
 - I Love ❤️ programming
